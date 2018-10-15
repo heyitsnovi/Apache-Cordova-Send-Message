@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Simple Message Send",
+  "short_name": "Simple Message Send",
+  "version": "com.kelnovi.simplemessaging",
+  "description": "Simple Send Message Using Apache Cordova",
+  "author": "Kel Novi",
+  "icons": [],
+  "start_url": "index.html"
+}

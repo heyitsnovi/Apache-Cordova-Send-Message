@@ -1,0 +1,4 @@
+#Mon Oct 15 08:16:45 PHT 2018
+base.0=/home/vendershop/Documents/HybridApps/SimpleMessaging/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
